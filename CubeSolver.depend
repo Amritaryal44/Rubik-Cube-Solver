@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1516702463 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1515779982 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\funcrotate.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516174685 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\cube3d.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516190587 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\crosssolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516146165 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\downsolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1515954331 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\midsolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516051700 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\ucross.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516163087 source:c:\users\amrit aryal\desktop\cprograms\cubesolver\uedgesolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516190587 source:d:\from system drive\cprograms\cubesolver\crosssolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516174685 source:d:\from system drive\cprograms\cubesolver\cube3d.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516146165 source:d:\from system drive\cprograms\cubesolver\downsolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1515779982 source:d:\from system drive\cprograms\cubesolver\funcrotate.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1515954331 source:d:\from system drive\cprograms\cubesolver\midsolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516051700 source:d:\from system drive\cprograms\cubesolver\ucross.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1516163087 source:d:\from system drive\cprograms\cubesolver\uedgesolve.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1517888926 source:d:\from system drive\cprograms\cubesolver\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
